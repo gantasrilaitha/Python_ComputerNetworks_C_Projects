@@ -31,3 +31,6 @@ A multi-user chat room application, where each user can communicate to every oth
 
 ## Future Enhancements
 Work on precision of language translation.
+
+## Documentation
+ Refer to [document](https://github.com/gantasrilaitha/phonebook-in-c/blob/main/CN%20project/CN%20Assignments.pdf) to see how it works!
